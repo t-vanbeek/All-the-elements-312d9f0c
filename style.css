@@ -1,0 +1,6 @@
+.title {
+    color: red;
+    text-shadow: darkred;
+    text-decoration: overline, blue;
+    text-decoration: underline, blue;
+}
